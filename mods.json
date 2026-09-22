@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "id": "v4",
+      "name": "TAKORO VIP V4",
+      "desc": "Versi 4 - stabil",
+      "url": "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mods/main/v4/mod.zip"
+    },
+    {
+      "id": "v5",
+      "name": "TAKORO VIP V5",
+      "desc": "Versi 5 - fitur baru",
+      "url": "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mods/main/v5/mod.zip"
+    },
+    {
+      "id": "v6",
+      "name": "TAKORO VIP V6",
+      "desc": "Versi 6 - terbaru",
+      "url": "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mods/main/v6/mod.zip"
+    }
+  ]
+}
